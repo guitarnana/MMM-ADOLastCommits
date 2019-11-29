@@ -1,0 +1,29 @@
+/*
+ *
+ * MMM-ADOLastCommits
+ *
+ * 
+ * MIT Licensed.
+ *
+ * Custom here your css module
+ *
+ */
+ .MMM-ADOLastCommits .date {
+    text-align: center;
+    font-size: 80%;
+    padding-right: 10px;
+}
+
+.MMM-ADOLastCommits .committer {
+    text-align: center;
+    font-size: 80%;
+    padding-right: 10px;
+}
+
+.MMM-ADOLastCommits .description {
+    padding-right: 30px;
+    text-align: left;
+    font-size: 80%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
